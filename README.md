@@ -1,8 +1,7 @@
-high pass of box blur
+Generic Orton GEGL filter
 =========
 
-A custom GEGL operation (and by extension GIMP filter) that implements a reversal of Box Blur's algorithm to sharpen images'
-
+generic orton -- (gimp's softglow, bloom, and highpass-grain-extract are much better ortons) I just made this as a practice filter. It is the hard light of Gaussian blur. 
 
 
 ## Compiling and Installing
